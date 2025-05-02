@@ -1,5 +1,5 @@
 ![Emoji Translator](https://images.pexels.com/photos/1279813/pexels-photo-1279813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) 
-  
+      
 # Emoji Translator
 
 Transform your text into emoji-rich messages with this modern, intuitive emoji translation app. Express yourself better with automatic emoji suggestions and multiple translation modes.
