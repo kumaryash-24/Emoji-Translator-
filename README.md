@@ -1,4 +1,4 @@
-![Emoji Translator](https://images.pexels.com/photos/1279813/pexels-photo-1279813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Emoji Translator](https://images.pexels.com/photos/1279813/pexels-photo-1279813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) 
 
 # Emoji Translator
 
