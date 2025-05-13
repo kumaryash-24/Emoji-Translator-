@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import { Header } from './components/Header';   
 import { TranslatorCard } from './components/TranslatorCard';        
 import { HistoryList } from './components/HistoryList';        
