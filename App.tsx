@@ -5,7 +5,7 @@ import { HistoryList } from './components/HistoryList';
 import { TranslationProvider } from './context/TranslationContext';           
 import { Github } from 'lucide-react';                  
           
-function App() {
+function App() {   
   return (
     <TranslationProvider>
       <div className="min-h-screen bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-900 dark:to-purple-900">
