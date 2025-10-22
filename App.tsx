@@ -6,7 +6,7 @@ import { TranslationProvider } from './context/TranslationContext';
 import { Github } from 'lucide-react';                       
               
 function App() {     
-  return (
+  return (  
     <TranslationProvider>
       <div className="min-h-screen bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-900 dark:to-purple-900">
         <div className="container mx-auto px-4 py-8 max-w-4xl">
