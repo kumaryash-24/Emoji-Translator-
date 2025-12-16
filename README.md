@@ -8,7 +8,7 @@ Transform your text into emoji-rich messages with this modern, intuitive emoji t
 
 Check out the live demo: [Emoji Translator App] https://mellifluous-syrniki-4b8435.netlify.app  
 
-## ✨ Features
+## ✨ Features  
 
 - 🔄 Real-time text-to-emoji translation
 - 🎯 Multiple translation modes:
