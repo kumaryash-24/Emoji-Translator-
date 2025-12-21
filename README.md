@@ -2,7 +2,7 @@
       
 # Emoji Translator
 
-Transform your text into emoji-rich messages with this modern, intuitive emoji translation app. Express yourself better with automatic emoji suggestions and multiple translation modes.
+Transform your text into emoji-rich messages with this modern, intuitive emoji translation app. Express yourself better with automatic emoji suggestions and multiple translation modes.   
 
 ## 🌐 Live Preview
 
