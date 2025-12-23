@@ -4,7 +4,7 @@ import { TranslatorCard } from './components/TranslatorCard';
 import { HistoryList } from './components/HistoryList';               
 import { TranslationProvider } from './context/TranslationContext';                       
 import { Github } from 'lucide-react';                         
-                         
+                            
 function App() {     
   return (  
     <TranslationProvider>
