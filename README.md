@@ -11,7 +11,7 @@ Check out the live demo: [Emoji Translator App] https://mellifluous-syrniki-4b84
 ## ✨ Features     
 
 - 🔄 Real-time text-to-emoji translation
-- 🎯 Multiple translation modes:
+- 🎯 Multiple translation modes:   
   - Replace text with emojis
   - Append emojis to text
   - Prepend emojis to text
