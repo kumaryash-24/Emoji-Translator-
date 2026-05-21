@@ -13,7 +13,7 @@ Check out the live demo: [Emoji Translator App] https://mellifluous-syrniki-4b84
 - 🔄 Real-time text-to-emoji translation
 - 🎯 Multiple translation modes:   
   - Replace text with emojis
-  - Append emojis to text
+  - Append emojis to text   
   - Prepend emojis to text
   - Emoji intensifier (triple emojis)
 - 📋 One-click copy to clipboard
