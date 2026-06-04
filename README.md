@@ -4,7 +4,7 @@
 
 Transform your text into emoji-rich messages with this modern, intuitive emoji translation app. Express yourself better with automatic emoji suggestions and multiple translation modes.     
    
-## 🌐 Live Preview
+## 🌐 Live Preview  
        
 Check out the live demo: [Emoji Translator App] https://mellifluous-syrniki-4b8435.netlify.app  
           
